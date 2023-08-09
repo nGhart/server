@@ -1,0 +1,8 @@
+{
+  "name": "http_server",
+  "version": "1.0.0",
+  "description": "server",
+  "main": "index.js",
+  "author": "oscarlyn",
+  "license": "MIT"
+}
